@@ -1,0 +1,18 @@
+{
+    "name": "@destination/jquery-serializeobject",
+    "version": "1.0.0",
+    "description": "jQuery plugin to serialize forms into objects",
+    "author": "Andy Palmer <andy.palmer@wearedestination.com>",
+    "license": "MIT",
+    "main": "index.js",
+    "files": [
+        "index.js"
+    ],
+    "peerDependencies": {
+        "jquery": "^3.4.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wearedestination/jquery-serializeobject.git"
+    }
+}
