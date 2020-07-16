@@ -15,7 +15,7 @@ yarn add @destination/jquery-serializeobject
 If you're using webpack, load the module first:
 
 ```javascript
-require('jquery-serializeobject');
+require('@destination/jquery-serializeobject');
 ```
 
 Once loaded, just use it like a standard jQuery plugin:
